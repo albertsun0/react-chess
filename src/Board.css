@@ -1,0 +1,19 @@
+.whiteTile {
+  background-color: antiquewhite;
+}
+
+.blackTile {
+  background-color: rgb(165, 121, 121);
+}
+
+.select {
+  background-color: aqua !important; 
+}
+
+.validWhite {
+  background-color: rgb(151, 179, 179) !important; 
+}
+
+.validBlack {
+  background-color: rgb(112, 128, 128) !important; 
+}
